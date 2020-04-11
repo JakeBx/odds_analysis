@@ -6,4 +6,7 @@ Matched betting resources
 * scraper.py: Scraper script which takes the html and extracts the data
 
 ### Caveats
-* This is old code, I haven't run it for some months and it is possible the page layouts haven't changed
+* This is old code, I haven't run it for some months and it is possible the page layouts have changed. Feel free to fork and submit merge requests.
+
+### Requirements
+You are going to need jupyter, selenium + chrome driver, pandas and some other things. I didn't make a requirements.txt because I remember the web driver being a bit tricky.
